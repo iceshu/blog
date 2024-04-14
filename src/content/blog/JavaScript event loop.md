@@ -18,5 +18,4 @@ setTimeout、setInterval、xhr.onload\、button.addEventListener等
 3、Promise []、async 、queueMicroTask、MutationObserver等属于Microtask。如果Mircotask queue里有要执行的任务就会先执行Mircotask 把它们推送到call Stack。如果没有就会执行task queue里面的任务推送到call Stack。
 
 所以下面应该输出啥：
-![uploading...](72a.7frj)
 ![image.png](https://staticfile.1024online.top/blog-image/2024/04/468e1c58e138e8d67dc5b39f79370012.png)
