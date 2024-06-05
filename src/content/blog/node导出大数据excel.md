@@ -14,7 +14,7 @@ description: "node 中间层导出大量excel数据，优化内存"
 
 一般情况下node做中间层导出大致逻辑如下
 
-![image.png](http://img.luqidong.com/obsidina20240119162121.png?v=1)
+![image.png](https://img.luqidong.com/obsidina20240119162121.png?v=1)
 
 大致逻辑是这么一个流程：拿到前端请求---循环获取数据--处理数据---转换数据--写入文件--上传文件
 
