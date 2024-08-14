@@ -2,7 +2,7 @@
 title: 迁移WEB
 author: ICE
 pubDatetime: 2024-07-24T12:24:53.552Z
-slug: 杂谈
+slug: web-migration
 featured: false
 draft: false
 tags:
