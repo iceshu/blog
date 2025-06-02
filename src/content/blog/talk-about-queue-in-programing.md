@@ -1,7 +1,7 @@
 ---
 title: queue-programming
 author: ICE
-pubDatetime: 2025-06-02T16:55:12.000+00:00
+pubDatetime: 2025-05-10T12:24:53.552Z
 slug: queue-programming
 featured: false
 draft: false
