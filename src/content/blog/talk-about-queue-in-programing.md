@@ -9,7 +9,7 @@ tags:
   - Rxjs
   - js
   - stream
-description: "javascript"
+description: "Understanding Queues in Software Programming"
 ---
 
 # Understanding Queues in Software Programming
