@@ -6,6 +6,7 @@ slug: queue-programming
 featured: false
 draft: false
 tags:
+  - Rxjs
   - js
 description: "javascript"
 ---
